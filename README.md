@@ -16,21 +16,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/preinboth/abapTmpl">
+  <a href="https://github.com/preinboth/abapTmpl/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">project_title</h3>
-
   <p align="center">
     project_description
     <br />
     <a href="https://github.com/preinboth/abapTmpl"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-        ·
     <a href="https://github.com/preinboth/abapTmpl/issues">Report Bug</a>
-    ·
     <a href="https://github.com/preinboth/abapTmpl/issues">Request Feature</a>
   </p>
 </p>
