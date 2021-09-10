@@ -24,7 +24,9 @@
     project_description
     <br />
     <a href="https://github.com/preinboth/abapTmpl"><strong>Explore the docs »</strong></a>
+    ·
     <a href="https://github.com/preinboth/abapTmpl/issues">Report Bug</a>
+    ·
     <a href="https://github.com/preinboth/abapTmpl/issues">Request Feature</a>
   </p>
 </p>
