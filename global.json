@@ -2,8 +2,8 @@
     "docs_directory": "docs",
     "themes_directory": "themes",
 
-    "title": "my Daux Test",
-    "tagline": "The Easiest Way To Document Your Project",
+    "title": "abap Template",
+    "tagline": "The Easiest Way To abap github project",
     "author": "preinboth",
     "image": "",
     "languages": {},
@@ -59,7 +59,7 @@
 
     },
 
-    "timezone": "America/Los_Angeles",
+    "timezone": "Europe/Berlin",
 
     "live": {
         "clean_urls": true
@@ -80,6 +80,8 @@
         "repo": "preinboth/abapTmpl",
         "twitter": [],
         "links": {
+            "GitHub Repo": "https://github.com/preinboth/abapTmpl",
+            "Help/Support/Bugs": "https://github.com/preinboth/abapTmpl/issues"
         },
         "buttons": {
         },
