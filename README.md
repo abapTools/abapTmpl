@@ -23,7 +23,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/preinboth/abapTmpl"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/preinboth/abapTmpl/tree/master/docs"><strong>Explore the docs »</strong></a>
     ·
     <a href="https://github.com/preinboth/abapTmpl/issues">Report Bug</a>
     ·
