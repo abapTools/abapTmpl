@@ -66,7 +66,7 @@
     },
 
     "html": {
-        "theme": "daux-blue",
+        "theme": "daux-red",
         "breadcrumbs": true,
 		"breadcrumb_separator": "Chevrons",
         "toggle_code": true,
