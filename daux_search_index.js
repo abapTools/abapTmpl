@@ -1,1 +1,0 @@
-load_search_index({"pages":[{"title":"abap Teplate","text":"","tags":"","url":"index.html"},{"title":"Getting Started","text":"","tags":"","url":"Getting_Started.html"},{"title":"Examples","text":"","tags":"","url":"Examples\/index.html"},{"title":"Configuration","text":"","tags":"","url":"Configuration\/index.html"}]});
