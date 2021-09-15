@@ -1,12 +1,10 @@
 name: abaplint
 
-on:
+on: 
   push:
-    branches:
-      - master
+    paths: '/src/**.abap'
   pull_request:
-    branches:
-      - master
+    paths: '/src/**.abap'
 
 jobs:
   lint:
