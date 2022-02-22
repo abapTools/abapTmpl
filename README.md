@@ -12,11 +12,10 @@ Template repository for abap projects
 		<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/abapTools/abapTmpl"></a>		
 </p>		
 <p align="center">
-	<img alt="abapLint Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint">
-	<img alt="Documentation Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation">
+	<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint?label=abaplint">
+	<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation?label=Documentation">
 </p>
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint)
 
 ### Features
 
