@@ -5,7 +5,8 @@ Template repository for abap projects
 
 <p align="center">
     <a href="https://github.com/abapTools/abapTmpl/contributors" alt="Contributors">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/badges/shields" /></a>
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/abapTools" /></a>
+		<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/abapTools">
 	<a href="https://github.com/abapTools/abapTmpl/blob/master/LICENSE" alt="Licence">
 		<img alt="Licence" src="https://img.shields.io/github/license/abapTools/abapTmpl?label=MIT"></a>
 	<a href="https://github.com/abapTools/abapTmpl/pulse" alt="Activity">
@@ -14,7 +15,6 @@ Template repository for abap projects
 <p align="center">
 	<img alt="abapLint Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint?label=abaplint">
 	<img alt="Documentation Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation?label=Documentation">
-	<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/abapTools">
 </p>
 
 
