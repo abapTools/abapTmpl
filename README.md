@@ -4,7 +4,8 @@
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-		
+	<a href="https://github.com/abapTools/abapTmpl/blob/master/LICENSE" alt="Licence">
+		<img alt="GitHub" src="https://img.shields.io/github/license/abapTools/abapTmpl?label=MIT">
 </p>
 Template repository for abap projects
 ### Features
