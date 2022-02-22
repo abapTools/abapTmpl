@@ -20,6 +20,7 @@ Template repository for abap projects
 
 ### Features
 
-abapLint
-Doku DAUX.io
+- abapLint
+
+- Doku DAUX.io
 
