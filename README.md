@@ -10,9 +10,10 @@ Template repository for abap projects
 		<img alt="Licence" src="https://img.shields.io/github/license/abapTools/abapTmpl?label=MIT"></a>
 	<a href="https://github.com/abapTools/abapTmpl/pulse" alt="Activity">
 		<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/abapTools/abapTmpl"></a>		
-		
-		<img alt="abapLint Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint">
-		<img alt="Documentation Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation">
+</p>		
+<p align="center">
+	<img alt="abapLint Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint">
+	<img alt="Documentation Workflow Status" src="https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation">
 </p>
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint)
