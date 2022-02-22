@@ -1,5 +1,7 @@
 <div id="top"></div>
+
 ## abapTmpl
+Template repository for abap projects
 
 <p align="center">
     <a href="https://github.com/abapTools/abapTmpl/contributors" alt="Contributors">
@@ -10,9 +12,7 @@
 		<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/abapTools/abapTmpl"></a>		
 </p>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/abapTools/abapTmpl)
 
-Template repository for abap projects
 
 ### Features
 
