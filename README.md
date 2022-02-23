@@ -5,9 +5,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/abapTools/abapTmpl)
 ![GitHub issues](https://img.shields.io/github/issues/abapTools/abapTmpl)
 ![GitHub contributors](https://img.shields.io/github/contributors/abapTools/abapTmpl)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/abapTools)
+
 ![abapLint Workflow Status](https://img.shields.io/github/workflow/status/abapTools/abapTmpl/abaplint?label=abaplint)
 ![Documentation Workflow Status](https://img.shields.io/github/workflow/status/abapTools/abapTmpl/Documentation?label=Documentation)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/abapTools)
+
 
 ## abapTmpl
 Template repository for abap projects
