@@ -3,7 +3,7 @@
 ## abapTmpl
 Template repository for abap projects
 
-![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/abapTools/abapTmpl/blob/master/LICENSE)
+![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 ![ABAP Version](https://img.shields.io/badge/ABAP%20-7.50-brightgreen)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/abapTools/abapTmpl)
@@ -23,4 +23,3 @@ Template repository for abap projects
 - abapLint
 
 - Doku DAUX.io
-
